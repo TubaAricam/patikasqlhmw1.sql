@@ -1,0 +1,1 @@
+# patikasqlhmw1.sql
